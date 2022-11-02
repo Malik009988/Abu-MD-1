@@ -1,6 +1,6 @@
 {
-  "name": "Abu MD",
-  "description": "Abu MD - Simple WhatsApp Multi Device Bot",
+  "name": "𝑺𝑯𝑨𝑴𝑰",
+  "description": "𝑺𝒉𝒂𝒎𝒊 - Simple WhatsApp Multi Device Bot",
   "keywords": ["whatsapp-bot", "multi-device", "Jsl", "abu-md", "abu"],
   "repository": "https://github.com/Malik009988/Abu-MD",
   "stack": "container",
@@ -13,7 +13,7 @@
     "SUDO": {
       "description": "sudo numbers with country code seperate with , for multiple numbers",
       "required": false,
-      "value": "917025994178"
+      "value": "923111939956"
     },
     "ANTI_LINK": {
       "description": "true/false",
