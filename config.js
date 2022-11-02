@@ -18,7 +18,7 @@ module.exports = {
       ? "^"
       : "^[.]",
   RMBG_KEY: process.env.RMBG_KEY || false,
-  PACKNAME: process.env.PACKNAME || "Abu",
+  PACKNAME: process.env.PACKNAME || "𝑆𝛨𝛥𝛭𝛪 💙",
   WELCOME_MSG:
     process.env.WELCOME_MSG ||
     "{pp}Hi @user Welcome to @gname\nYou're our @count/513 Members ",
@@ -30,7 +30,7 @@ module.exports = {
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || " ",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || " ",
   IMAGE_URL: process.env.IMAGE_URL || "https://telegra.ph/file/47842cf7d85784cb4e441.jpg",
-  BOT_NAME: process.env.BOT_NAME || "Abu-MD",
+  BOT_NAME: process.env.BOT_NAME || "𝑆𝛨𝛥𝛭𝛪",
   MODE: process.env.MODE || "public",
   LANGUAGE: process.env.LANGUAGE || 'english',
 };
