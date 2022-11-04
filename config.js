@@ -18,7 +18,7 @@ module.exports = {
       ? "^"
       : "^[.]",
   RMBG_KEY: process.env.RMBG_KEY || false,
-  PACKNAME: process.env.PACKNAME || "𝑆𝛨𝛥𝛭𝛪 💙",
+  PACKNAME: process.env.PACKNAME || "Shami",
   WELCOME_MSG:
     process.env.WELCOME_MSG ||
     "{pp}Hi @user Welcome to @gname\nYou're our @count/513 Members ",
